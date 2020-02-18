@@ -91,65 +91,66 @@
 
 ## DEFI
 66. [Aragon](https://github.com/aragon/aragon)
-67. [oX - Dex Protocol](https://github.com/0xProject)
-68. [Uniswap Protocol](https://docs.uniswap.io/)
-69. [Compound Protocol](https://compound.finance/developers)
+67. [Maker DAO](https://makerdao.com/en/)
+68. [oX - Dex Protocol](https://github.com/0xProject)
+69. [Uniswap Protocol](https://docs.uniswap.io/)
+70. [Compound Protocol](https://compound.finance/developers)
 
 ## Blogs & News
-70. [Cointelegraph](https://cointelegraph.com)
-71. [Blockonomi](https://blockonomi.com)
-72. [Dapp University](https://www.dappuniversity.com)
-73. [Blockgeeks](https://blockgeeks.com)
-74. [Week in Ethereum](https://weekinethereumnews.com/)
+71. [Cointelegraph](https://cointelegraph.com)
+72. [Blockonomi](https://blockonomi.com)
+73. [Dapp University](https://www.dappuniversity.com)
+74. [Blockgeeks](https://blockgeeks.com)
+75. [Week in Ethereum](https://weekinethereumnews.com/)
 
 ## Game-based Tutorials
-75. [Crypto Zombies](https://cryptozombies.io)
-76. [Move Castle](https://community.libra.org/t/movecastle-learn-libra-move-through-game/1722)
-77. [Elemental Battles - Learn EOSIO](https://battles.eos.io)
+76. [Crypto Zombies](https://cryptozombies.io)
+77. [Move Castle](https://community.libra.org/t/movecastle-learn-libra-move-through-game/1722)
+78. [Elemental Battles - Learn EOSIO](https://battles.eos.io)
 
 ## ERC Token Standards
-78. [List of ERCs](https://eips.ethereum.org/erc)
-79. [ERC-20](https://eips.ethereum.org/EIPS/eip-20)
-80. [ERC-721](https://eips.ethereum.org/EIPS/eip-721)
-81. [ERC20 Verifier](https://erc20-verifier.openzeppelin.com)
+79. [List of ERCs](https://eips.ethereum.org/erc)
+80. [ERC-20](https://eips.ethereum.org/EIPS/eip-20)
+81. [ERC-721](https://eips.ethereum.org/EIPS/eip-721)
+82. [ERC20 Verifier](https://erc20-verifier.openzeppelin.com)
 
 ## Testing & Security
-82. [Mocha](https://mochajs.org)
-83. [MythX](https://mythx.io)
-84. [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
+83. [Mocha](https://mochajs.org)
+84. [MythX](https://mythx.io)
+85. [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
 
 ## Telegram Open Network
-85. [TON](https://ton-telegram.net)
+86. [TON](https://ton-telegram.net)
 
 ## UX/UI Design
-86. [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d)
-87. [Designing for blockchain: what's different and what's at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9)
-88. [Rimble](https://rimble.consensys.design)
+87. [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d)
+88. [Designing for blockchain: what's different and what's at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9)
+89. [Rimble](https://rimble.consensys.design)
 
 ## Front End Frameworks
-89. [React](https://reactjs.org/)
-90. [Vue.js](https://vuejs.org/)
+90. [React](https://reactjs.org/)
+91. [Vue.js](https://vuejs.org/)
 
 ## Hosting providers
-91. [Heroku](https://www.heroku.com/)
-92. [AWS](https://aws.amazon.com/)
+92. [Heroku](https://www.heroku.com/)
+93. [AWS](https://aws.amazon.com/)
 
 ## Books & Required Reading
-93. [Ethereum Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
-94. [Blockchain Consensus Protocols](https://blockchain.intellectsoft.net/blog/consensus-protocols-that-meet-different-business-demands/)
-95. [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-96. [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
-97. [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
-98. [Mastering Ethereum](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
-99. [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
+94. [Ethereum Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
+95. [Blockchain Consensus Protocols](https://blockchain.intellectsoft.net/blog/consensus-protocols-that-meet-different-business-demands/)
+96. [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+97. [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
+98. [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
+99. [Mastering Ethereum](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
+100. [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
 
 ## Conferences
-100. [PBWS - Paris Blockchain Week Summit](https://www.pbwsummit.com)
-101. [DevCon](https://devcon.org/)
-102. [TruffleCon](https://www.trufflesuite.com/trufflecon2019)
-103. [EthDenver](https://www.ethdenver.com/)
+101. [PBWS - Paris Blockchain Week Summit](https://www.pbwsummit.com)
+102. [DevCon](https://devcon.org/)
+103. [TruffleCon](https://www.trufflesuite.com/trufflecon2019)
+104. [EthDenver](https://www.ethdenver.com/)
 
 ## Jobs
-104. [Hired.com](https://hired.com/)
-105. [Crypto Jobs List](https://cryptojobslist.com/)
-106. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
+105. [Hired.com](https://hired.com/)
+106. [Crypto Jobs List](https://cryptojobslist.com/)
+107. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
